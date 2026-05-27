@@ -1,7 +1,7 @@
 ## 결과 시각화
 
 ### 브랜드별 감정 분포
-![sentiment analysis](Assignment/sentiment_analysis.png)
+![sentiment analysis](sentiment_analysis.png)
 
 ### 브랜드별 감정 비율 비교
-![sentiment ratio](Assignment/sentiment_ratio.png)
+![sentiment ratio](sentiment_ratio.png)
